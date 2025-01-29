@@ -14,9 +14,9 @@ This is a simple React.js web application for managing users. It allows users to
 - JSONPlaceholder (Mock API)
 
 ## 3. Installation
-a. Clone the repository: git clone https://github.com/Arvind-John/user-management-dashboard
-b. Install dependencies: npm install
-c. Start the application: npm start
+- Clone the repository: git clone https://github.com/Arvind-John/user-management-dashboard
+- Install dependencies: npm install
+- Start the application: npm start
 
 ## 4. API Endpoints Used
 - GET https://jsonplaceholder.typicode.com/users - Fetch user list.
